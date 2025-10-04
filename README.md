@@ -58,23 +58,41 @@ I love working on projects involving:
 
 ---
 
+## 💻 Experience  
+
+### 🧩 **Software Engineer Intern — WorkSpan, India**  
+📅 *Sept 2024 – Feb 2025*  
+- Built a **chatbot using LangChain, Gemini LLM, and Streamlit** to automate release note analysis.  
+- Automated **GCP listing sync using Selenium** and implemented **version-controlled email templates with SendGrid**.  
+- Contributed across the **SDLC** — development, testing, and deployment in an **Agile team environment**.  
+- Conducted **prompt engineering workshops** and created **onboarding documentation** for internal teams.  
+- Enhanced backend performance and reliability with **unit testing (Pytest)** and debugging tools.  
+
+---
+
+### 📊 **Data Science Intern — Zigram, India**  
+📅 *Jan 2024 – May 2024*  
+- Assessed **document-chat tools** using measurable KPIs to support **product optimization**.  
+- Developed a **Streamlit app** and Python automation scripts for **Excel-to-JSON data mapping**.  
+- Leveraged **NLP and ML** for predictive modeling and information extraction.  
+- Earned LinkedIn certifications in **Python, NLP, SQL, and Excel**.  
+
+---
+
 ### 📂 Featured Projects  
 
+#### 🔹 [AI Story Crafter](https://github.com/aliya-singh/story-generation-app)
+> An intelligent storytelling web app using Streamlit, LangChain, and **Google Gemini API**, deployed on
+ Hugging Face Spaces with 2-mode generation system for short stories and chapter-based novels. 
+**Tech:** LLM · Streamlit · NLP · Transformers · Gemini · HuggingFace
+
+#### 🔹 [Grape Disease Detector](https://huggingface.co/spaces/aliyasingh/grape-disease-detector)
+> A **CNN-based computer vision model** that detects grape diseases from images and suggests preventive measures.  
+**Tech:** Python · TensorFlow · CNN · Streamlit · HuggingFace
+> 
 #### 🔹 [Neural Knowledge Explorer](https://huggingface.co/spaces/aliyasingh/neural-knowledge-explorer)
 > A **RAG-based Streamlit app** that uses **Gemini LLM** for contextual document understanding and Q&A from release notes.  
 **Tech:** Python · Streamlit · LangChain · FAISS · HuggingFace
-
-#### 🔹 [Story Generation App](https://github.com/aliya-singh/story-generation-app)
-> A creative writing app powered by **LLaMA 2**, generating dynamic, coherent stories from user prompts.  
-**Tech:** LLaMA 2 · Streamlit · NLP · Transformers
-
-#### 🔹 [Crop Disease Detection](https://github.com/aliya-singh/crop-disease-detection)
-> A **CNN-based computer vision model** that detects crop diseases from images and suggests preventive measures.  
-**Tech:** Python · TensorFlow · CNN · Streamlit
-
-#### 🔹 [Association Mapping App](https://github.com/aliya-singh/association-mapping)
-> An **end-to-end Streamlit app** that reads Excel sheets, performs relationship mapping, and visualizes association graphs.  
-**Tech:** Python · Pandas · Plotly · Streamlit
 
 ---
 
@@ -112,22 +130,6 @@ I love working on projects involving:
 
 ---
 
-### 🏆 GitHub Trophies  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aliya-singh&theme=onedark&column=7" />
-</p>
-
----
-
-### 🐍 Contribution Graph Animation  
-
-<p align="center">
-  <img src="https://github.com/aliya-singh/aliya-singh/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ### 📫 Connect with Me  
 
 <p align="center">
@@ -142,8 +144,7 @@ I love working on projects involving:
 ### ⚡ Fun Facts  
 
 - 🧩 I love solving **Rubik’s cubes** and logic puzzles.  
-- 🌍 I enjoy **traveling** and exploring diverse cultures.  
-- ✍️ Currently writing a **28-chapter dark romance novel** titled *“The Girl Who Rebuilt the Sky.”*  
+- 🌍 I enjoy **traveling** and exploring diverse cultures.   
 - 💭 Motto: *“Keep learning, keep building, and keep evolving.”*
 
 ---
