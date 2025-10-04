@@ -1,168 +1,155 @@
-<h1 align="center">👋 Hi there, I'm <span style="color:#ff4081;">Aliya Singh</span></h1>
-<h3 align="center">💻 Data Scientist | 🧠 Machine Learning & GenAI Enthusiast | 🌏 Based in Bangalore, India</h3>
+<!-- Profile Header -->
+<h1 align="center">👋 Hi, I'm Aliya Singh</h1>
+<h3 align="center">🚀 Data Scientist | 💡 ML Engineer | 🤖 GenAI Enthusiast | 🌏 Bangalore, India</h3>
 
 ---
 
-### 🌟 About Me  
+### 👩‍💻 About Me  
+I’m an analytical and creative **Data Scientist & Machine Learning Engineer** passionate about transforming data into intelligent, real-world applications.  
+Currently, I’m working as an **Engineering Intern at WorkSpan**, developing scalable ML-based automations, LLM-powered features, and outbound data mapping solutions.
 
-I’m an enthusiastic and curious **Data Scientist & ML Engineer** with a passion for building intelligent systems that make data *speak*.  
-Currently, I’m working as an **Engineering Intern at WorkSpan**, where I contribute to backend systems, LLM-based automation, and intelligent data mapping pipelines.  
+With a background in **Data Science (MSc)** and **Statistics (BSc)**, I bridge the gap between data, technology, and strategy — from model development to full-stack ML deployment.  
 
-With a strong academic background — **MSc in Data Science** and **BSc in Statistics** — I combine analytical precision with creativity to deliver impactful AI-driven solutions.  
-
-I love working on projects involving:
-- 🧠 **Machine Learning** & **Deep Learning**  
-- 💬 **Natural Language Processing (NLP)**  
-- 🎨 **Generative AI & LangChain Applications**  
-- 📊 **Data Visualization & Insights Automation**  
-- 🧩 **End-to-End Deployment (Streamlit / FastAPI / Hugging Face)**  
+💭 I believe in learning continuously, experimenting boldly, and sharing knowledge that inspires others.  
 
 ---
 
-### 🔭 Current Focus  
-
-- 🚀 Developing LLM-powered chatbots & Retrieval-Augmented Generation (RAG) systems  
-- ⚙️ Enhancing **outbound data mapping** libraries at WorkSpan  
-- 🧩 Exploring **MLOps workflows** and efficient **prompt development**  
-- 💡 Researching on **multi-agent reasoning frameworks**  
-
----
-
-### 🛠️ Tech Stack  
-
-#### 💻 Languages  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=MySQL&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
-
-#### 🧠 AI & ML Tools  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LangChain-1E90FF?logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white)
-![LLaMA2](https://img.shields.io/badge/-LLaMA2-FFB6C1?logo=meta&logoColor=white)
-
-#### 🧰 Dev & Deployment  
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/-Hugging%20Face-FFD54F?logo=huggingface&logoColor=black)
-
-#### 🧮 Data Science & Visualization  
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
-![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?logo=plotly&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=python&logoColor=white)
+### 🎯 Core Interests  
+- 🧠 **Machine Learning & Deep Learning**  
+- 💬 **Natural Language Processing & GenAI**  
+- 🧩 **Retrieval-Augmented Generation (RAG)**  
+- ⚙️ **LangChain, LLMs & Prompt Engineering**  
+- 🌐 **Streamlit / FastAPI App Deployment**  
+- 🪄 **MLOps, CI/CD, and Scalable AI Systems**
 
 ---
 
-### 📂 Featured Projects  
+### ⚙️ Tech Stack  
+
+**Languages & Libraries**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+**Machine Learning & AI Tools**  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1E90FF?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+**Frameworks & Platforms**  
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD54F?style=for-the-badge&logo=huggingface&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**Visualization & Data Tools**  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+### 🚀 Featured Projects  
 
 #### 🔹 [Neural Knowledge Explorer](https://huggingface.co/spaces/aliyasingh/neural-knowledge-explorer)
-> A **RAG-based Streamlit app** that uses **Gemini LLM** for contextual document understanding and Q&A from release notes.  
-**Tech:** Python · Streamlit · LangChain · FAISS · HuggingFace
+A **Retrieval-Augmented Generation (RAG)** app built with **Streamlit** and **Gemini LLM**, enabling contextual Q&A from release notes.  
+**Tech:** Python · LangChain · FAISS · HuggingFace · Streamlit
 
 #### 🔹 [Story Generation App](https://github.com/aliya-singh/story-generation-app)
-> A creative writing app powered by **LLaMA 2**, generating dynamic, coherent stories from user prompts.  
-**Tech:** LLaMA 2 · Streamlit · NLP · Transformers
+An interactive **LLaMA 2-powered storytelling app** generating narratives based on creative prompts.  
+**Tech:** Streamlit · LLaMA 2 · Transformers · Python
 
 #### 🔹 [Crop Disease Detection](https://github.com/aliya-singh/crop-disease-detection)
-> A **CNN-based computer vision model** that detects crop diseases from images and suggests preventive measures.  
-**Tech:** Python · TensorFlow · CNN · Streamlit
+A **CNN-based model** that identifies crop diseases from leaf images and recommends preventive measures.  
+**Tech:** TensorFlow · Keras · OpenCV · Streamlit
 
 #### 🔹 [Association Mapping App](https://github.com/aliya-singh/association-mapping)
-> An **end-to-end Streamlit app** that reads Excel sheets, performs relationship mapping, and visualizes association graphs.  
-**Tech:** Python · Pandas · Plotly · Streamlit
+An **end-to-end data visualization tool** for building association maps from Excel files.  
+**Tech:** Pandas · Plotly · Streamlit
 
 ---
 
-### 🧩 Achievements  
+### 🎓 Education  
 
-🏅 **LeetCode 100 Days Badge (2025)** — Consistent problem-solving and algorithmic practice.  
-📊 Ranked among top performers in several **coding contests**.  
-🎓 **MSc in Data Science (3.56/4.0 GPA)** — Christ (Deemed to be University).  
-🎓 **BSc in Statistics (9.64/10.0 CGPA)** — Patna Women’s College.  
-🧠 Delivered multiple **prompt development sessions** and led team projects at SAMAGRA.
+🎓 **MSc in Data Science** – Christ (Deemed to be University), Bangalore  
+GPA: **3.56 / 4.0**
+
+🎓 **BSc in Statistics** – Patna Women’s College  
+CGPA: **9.64 / 10.0**
+
+---
+
+### 🏅 Achievements & Highlights  
+- 🏆 **LeetCode 100 Days Badge (2025)** — Consistency in algorithmic problem-solving  
+- 🧠 Led multiple **Prompt Development** workshops  
+- 💼 Interned at **Zigram** and **WorkSpan**, working on ML, NLP, and automation projects  
+- 💡 Built **LLM-powered systems**, **email automation (SendGrid)**, and **historical sync via Selenium**  
+- 🥇 Top performer in university-level data science competitions  
 
 ---
 
 ### 📜 Certifications  
 
-- **Advanced Python: Working With Data** — LinkedIn  
-- **Advanced SQL for Data Science** — LinkedIn  
-- **NumPy Essential Training** — LinkedIn  
-- **Advanced Pandas** — LinkedIn  
-- **Master Python & SQL for Data Science** — LinkedIn  
-- **How to Set Goals When Everything Feels Like a Priority** — LinkedIn  
+| Course | Platform | Skills |
+|--------|-----------|--------|
+| Advanced Python: Working With Data | LinkedIn | Data Wrangling, OOP, APIs |
+| Advanced SQL for Data Science | LinkedIn | Query Optimization, Analysis |
+| Advanced Pandas | LinkedIn | Data Transformation |
+| Master Python for Data Science | LinkedIn | Python, Data Management |
+| NumPy Essential Training | LinkedIn | Scientific Computing |
+| How to Set Goals When Everything Feels Like a Priority | LinkedIn | Goal Setting, Productivity |
 
 ---
 
-### 📊 GitHub Analytics  
+### 📊 GitHub Insights  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aliya-singh&show_icons=true&theme=radical" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliya-singh&layout=compact&theme=radical" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=aliya-singh&show_icons=true&theme=tokyonight" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliya-singh&layout=compact&theme=tokyonight" height="165">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aliya-singh&theme=radical" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aliya-singh&theme=tokyonight" height="165">
 </p>
 
 ---
 
-### 🏆 GitHub Trophies  
+### 🏆 Trophies  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aliya-singh&theme=onedark&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=aliya-singh&theme=tokyonight&column=7&margin-w=10&margin-h=10" />
 </p>
 
 ---
 
 ### 🐍 Contribution Graph Animation  
-
 <p align="center">
   <img src="https://github.com/aliya-singh/aliya-singh/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-### 📫 Connect with Me  
+### 🌐 Connect with Me  
 
 <p align="center">
-  <a href="mailto:aliyasinghofficial@gmail.com"><img src="https://img.shields.io/badge/Email-aliyasinghofficial%40gmail.com-red?logo=gmail"></a>
-  <a href="https://linkedin.com/in/aliya-singh"><img src="https://img.shields.io/badge/LinkedIn-Aliya%20Singh-blue?logo=linkedin"></a>
-  <a href="https://github.com/aliya-singh"><img src="https://img.shields.io/badge/GitHub-aliya--singh-black?logo=github"></a>
-  <a href="https://huggingface.co/spaces/aliyasingh"><img src="https://img.shields.io/badge/HuggingFace-Spaces-yellow?logo=huggingface"></a>
+  <a href="mailto:aliyasinghofficial@gmail.com"><img src="https://img.shields.io/badge/Email-aliyasinghofficial%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/aliya-singh"><img src="https://img.shields.io/badge/LinkedIn-Aliya%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/aliya-singh"><img src="https://img.shields.io/badge/GitHub-aliya--singh-181717?style=for-the-badge&logo=github"></a>
+  <a href="https://huggingface.co/spaces/aliyasingh"><img src="https://img.shields.io/badge/HuggingFace-Spaces-FFD54F?style=for-the-badge&logo=huggingface&logoColor=black"></a>
 </p>
 
 ---
 
-### ⚡ Fun Facts  
-
+### 💡 Fun Facts  
 - 🧩 I love solving **Rubik’s cubes** and logic puzzles.  
-- 🌍 I enjoy **traveling** and exploring diverse cultures.  
-- ✍️ Currently writing a **28-chapter dark romance novel** titled *“The Girl Who Rebuilt the Sky.”*  
-- 💭 Motto: *“Keep learning, keep building, and keep evolving.”*
+- ✈️ Traveling fuels my creativity.  
+- 🖋️ Writing my novel *“The Girl Who Rebuilt the Sky”* (28-chapter dark romance).  
+- 💭 Motto: *“Keep learning. Keep building. Keep evolving.”*
 
 ---
 
-<p align="center">⭐️ Thanks for visiting my profile! If you liked my work, consider giving a star 🌟 to my repositories.</p>
-
----
-
-### 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aliya-singh&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliya-singh&layout=compact&theme=radical)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=aliya-singh&theme=radical)
-
----
-
-### 🚀 Featured Projects  
-🔹 [**Neural Knowledge Explorer**](https://huggingface.co/spaces/aliyasingh/neural-knowledge-explorer) — RAG system powered by Gemini  
-🔹 [**Story Generation App**](https://github.com/aliya-singh/story-generation-app) — Streamlit + LLaMA2  
-🔹 [**Crop Disease Detection**](https://github.com/aliya-singh/crop-disease-detection) — CNN-based image classification  
-
----
-⭐ **Fun challenge:** Try to commit every week to show continuous learning!
+<p align="center">⭐️ If you find my projects inspiring, please consider giving them a star! ⭐️</p>
