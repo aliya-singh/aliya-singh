@@ -6,7 +6,7 @@
 ### 🌟 About Me  
 
 I’m an enthusiastic and curious **Data Scientist & ML Engineer** with a passion for building intelligent systems that make data *speak*.  
-Currently, I’m working as an **Engineering Intern at WorkSpan**, where I contribute to backend systems, LLM-based automation, and intelligent data mapping pipelines.  
+Currently, I worked as an **Engineering Intern at WorkSpan**, where I contribute to backend systems, LLM-based automation, and intelligent data mapping pipelines.  
 
 With a strong academic background — **MSc in Data Science** and **BSc in Statistics** — I combine analytical precision with creativity to deliver impactful AI-driven solutions.  
 
