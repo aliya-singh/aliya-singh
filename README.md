@@ -22,7 +22,6 @@ I love working on projects involving:
 ### 🔭 Current Focus  
 
 - 🚀 Developing LLM-powered chatbots & Retrieval-Augmented Generation (RAG) systems  
-- ⚙️ Enhancing **outbound data mapping** libraries at WorkSpan  
 - 🧩 Exploring **MLOps workflows** and efficient **prompt development**  
 - 💡 Researching on **multi-agent reasoning frameworks**  
 
